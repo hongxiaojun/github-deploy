@@ -1,0 +1,88 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.eclipse/
+.settings/
+*.iml
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.cache/
+
+# Build Outputs
+dist/
+build/
+out/
+target/
+bin/
+obj/
+
+# Dependencies
+node_modules/
+vendor/
+bower_components/
+
+# Testing
+coverage/
+.nyc_output/
+.coverage
+*.lcov
+
+# Debug
+debug/
+*.debug.log
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Certificates and Keys
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
